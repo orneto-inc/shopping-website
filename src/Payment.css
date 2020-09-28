@@ -1,0 +1,9 @@
+.payment > h2{
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.payment > img{
+    margin: 40px 550px 300px;}
+

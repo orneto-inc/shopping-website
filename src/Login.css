@@ -1,0 +1,78 @@
+.login {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__logo {
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    flex-direction: row;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.login__container {
+    width: 400px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+
+.login__container > h1 {
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+
+.login__container > form > h5 {
+    margin-bottom: 5px;
+}
+
+.login__container > form > input {
+    height: 35px;
+    margin-bottom: 10px;
+    background-color: white;
+    box-shadow: 0 8px 6px -6px black;
+    border-radius: 20px;
+    width: 98%;
+  }
+
+.login__container > p {
+    text-align: justify;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.login__signInButton {
+    background-color: #f73859;
+    border: 1px solid white;
+    height: 45px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 0 8px 6px -6px black;
+  }
+
+  .login__registerButton {
+    background-color: #f73859;
+    border: 1px solid white;
+    height: 45px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 0 8px 6px -6px black;
+  }
+  
+  

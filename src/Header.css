@@ -1,0 +1,66 @@
+.header {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background-color: #283149;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__left{
+  display: flex;
+  flex: 70%;
+  margin-left: 20%;
+
+}
+.header__right{
+  display: flex;
+  flex: 30%;
+  margin-left: 50%;
+}
+
+.header__logo {
+  display: flex;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+  color: white;
+  width: 400px;
+  margin-top: 18px;
+}
+
+.header__optionBasket {
+  display: flex;
+  margin-top: 10px;
+  color: white;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__optionLineOne {
+  font-size: 15px;
+  margin-right: 50px;
+}
+
+.header__optionLineTwo {
+  font-size: 20px;
+  margin-right: 50px;
+  font-weight: 800;
+}
+
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
