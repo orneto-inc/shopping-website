@@ -19,8 +19,6 @@ TECHNOLOGY & TOOLS USED:
 	-git
 	-gitHub
 	-VSCode
-	
-Resoy
 
 
 CONTACT:
