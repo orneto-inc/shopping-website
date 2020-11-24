@@ -20,7 +20,7 @@ TECHNOLOGY & TOOLS USED:
 	-gitHub
 	-VSCode
 	
-Resorces Used: 
+Resorces Used: INTERNET
 
 
 CONTACT:
